@@ -27,22 +27,10 @@ telegram_error_messages:
   something: "Something seems wrong: %s!"
 
 telegram:
-  token: 656155053:CHANGEME
-  token2: 521177781:CHANGEME
+  token: '1660470484:AAFzhUU8DGUCGWgvRlLWddONL2DtREOw520'
+  token2: '1660470484:AAFzhUU8DGUCGWgvRlLWddONL2DtREOw520'
 
-twitter:
-  username: Viacoin
-  consumer_key: CHANGE_ME
-  consumer_secret: CHANGE_ME
-  access_token: CHANGE_ME
-  access_token_secret: CHANGE_ME
 
-shill:
-  binance: "https://www.binance.com/?ref=17605639"
-  bitmex: "https://www.bitmex.com/register/vhT2qm"
-
-shill_message:
-  binance: "Buy %s on https://www.binance.com/?ref=17605639"
 
 about:
   info: "I'm a bot for tipping cryptocurrencies.\n"
